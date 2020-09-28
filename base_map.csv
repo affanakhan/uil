@@ -1,0 +1,495 @@
+,Name,State,Pop_Group,Year, Pop 
+101,Akron OH,OH,Med,2017,  570 
+101,Albany-Schenectady NY,NY,Med,2017,  610 
+101,Albuquerque NM,NM,Med,2017,  760 
+101,Allentown PA-NJ,PA,Med,2017,  680 
+101,Anchorage AK,AK,Sml,2017,  290 
+101,Atlanta GA,GA,Vlg,2017,"  4,900 "
+101,Austin TX,TX,Lrg,2017,"  1,620 "
+101,Bakersfield CA,CA,Med,2017,  560 
+101,Baltimore MD,MD,Lrg,2017,"  2,620 "
+101,Baton Rouge LA,LA,Med,2017,  640 
+101,Beaumont TX,TX,Sml,2017,  300 
+101,Birmingham AL,AL,Med,2017,  800 
+101,Boise ID,ID,Sml,2017,  390 
+101,Boston MA-NH-RI,MA,Vlg,2017,"  4,500 "
+101,Boulder CO,CO,Sml,2017,  130 
+101,Bridgeport-Stamford CT-NY,CT,Med,2017,  960 
+101,Brownsville TX,TX,Sml,2017,  225 
+101,Buffalo NY,NY,Med,2017,  940 
+101,Cape Coral FL,FL,Med,2017,  595 
+101,Charleston-North Charleston SC,SC,Med,2017,  630 
+101,Charlotte NC-SC,NC,Lrg,2017,"  1,340 "
+101,Chicago IL-IN,IL,Vlg,2017,"  8,720 "
+101,Cincinnati OH-KY-IN,OH,Lrg,2017,"  1,670 "
+101,Cleveland OH,OH,Lrg,2017,"  1,760 "
+101,Colorado Springs CO,CO,Med,2017,  615 
+101,Columbia SC,SC,Med,2017,  590 
+101,Columbus OH,OH,Lrg,2017,"  1,495 "
+101,Corpus Christi TX,TX,Sml,2017,  340 
+101,Dallas-Fort Worth-Arlington TX,TX,Vlg,2017,"  5,630 "
+101,Dayton OH,OH,Med,2017,  745 
+101,Denver-Aurora CO,CO,Lrg,2017,"  2,675 "
+101,Detroit MI,MI,Vlg,2017,"  3,825 "
+101,El Paso TX-NM,TX,Med,2017,  825 
+101,Eugene OR,OR,Sml,2017,  260 
+101,Fresno CA,CA,Med,2017,  700 
+101,Grand Rapids MI,MI,Med,2017,  630 
+101,Greensboro NC,NC,Sml,2017,  330 
+101,Hartford CT,CT,Med,2017,  910 
+101,Honolulu HI,HI,Med,2017,  850 
+101,Houston TX,TX,Vlg,2017,"  5,180 "
+101,Indianapolis IN,IN,Lrg,2017,"  1,605 "
+101,Indio-Cathedral City CA,CA,Sml,2017,  375 
+101,Jackson MS,MS,Sml,2017,  365 
+101,Jacksonville FL,FL,Lrg,2017,"  1,150 "
+101,Kansas City MO-KS,MO,Lrg,2017,"  1,605 "
+101,Knoxville TN,TN,Med,2017,  605 
+101,Lancaster-Palmdale CA,CA,Sml,2017,  350 
+101,Laredo TX,TX,Sml,2017,  265 
+101,Las Vegas-Henderson NV,NV,Lrg,2017,"  2,070 "
+101,Little Rock AR,AR,Sml,2017,  460 
+101,Los Angeles-Long Beach-Anaheim CA,CA,Vlg,2017,"  12,670 "
+101,Louisville-Jefferson County KY-IN,KY,Lrg,2017,"  1,115 "
+101,Madison WI,WI,Sml,2017,  445 
+101,McAllen TX,TX,Med,2017,  800 
+101,Memphis TN-MS-AR,TN,Lrg,2017,"  1,090 "
+101,Miami FL,FL,Vlg,2017,"  6,040 "
+101,Milwaukee WI,WI,Lrg,2017,"  1,410 "
+101,Minneapolis-St. Paul MN-WI,MN,Lrg,2017,"  2,850 "
+101,Nashville-Davidson TN,TN,Lrg,2017,"  1,215 "
+101,New Haven CT,CT,Med,2017,  555 
+101,New Orleans LA,LA,Med,2017,  985 
+101,New York-Newark NY-NJ-CT,NY,Vlg,2017,"  19,095 "
+101,Oklahoma City OK,OK,Lrg,2017,"  1,010 "
+101,Omaha NE-IA,NE,Med,2017,  785 
+101,Orlando FL,FL,Lrg,2017,"  1,690 "
+101,Oxnard CA,CA,Sml,2017,  385 
+101,Pensacola FL-AL,FL,Sml,2017,  375 
+101,Philadelphia PA-NJ-DE-MD,PA,Vlg,2017,"  5,565 "
+101,Phoenix-Mesa AZ,AZ,Vlg,2017,"  4,000 "
+101,Pittsburgh PA,PA,Lrg,2017,"  1,760 "
+101,Portland OR-WA,OR,Lrg,2017,"  2,050 "
+101,Poughkeepsie-Newburgh NY-NJ,NY,Sml,2017,  440 
+101,Providence RI-MA,RI,Lrg,2017,"  1,195 "
+101,Provo-Orem UT,UT,Med,2017,  555 
+101,Raleigh NC,NC,Lrg,2017,"  1,030 "
+101,Richmond VA,VA,Lrg,2017,"  1,015 "
+101,Riverside-San Bernardino CA,CA,Lrg,2017,"  2,075 "
+101,Rochester NY,NY,Med,2017,  725 
+101,Sacramento CA,CA,Lrg,2017,"  1,855 "
+101,Salem OR,OR,Sml,2017,  260 
+101,Salt Lake City-West Valley City UT,UT,Lrg,2017,"  1,115 "
+101,San Antonio TX,TX,Lrg,2017,"  2,000 "
+101,San Diego CA,CA,Vlg,2017,"  3,195 "
+101,San Francisco-Oakland CA,CA,Vlg,2017,"  3,540 "
+101,San Jose CA,CA,Lrg,2017,"  1,965 "
+101,San Juan PR,PR,Lrg,2017,"  2,010 "
+101,Sarasota-Bradenton FL,FL,Med,2017,  715 
+101,Seattle WA,WA,Vlg,2017,"  3,400 "
+101,Spokane WA,WA,Sml,2017,  405 
+101,Springfield MA-CT,MA,Med,2017,  630 
+101,St. Louis MO-IL,MO,Lrg,2017,"  2,200 "
+101,Stockton CA,CA,Sml,2017,  390 
+101,Tampa-St. Petersburg FL,FL,Lrg,2017,"  2,650 "
+101,Toledo OH-MI,OH,Med,2017,  515 
+101,Tucson AZ,AZ,Med,2017,  875 
+101,Tulsa OK,OK,Med,2017,  755 
+101,Virginia Beach VA,VA,Lrg,2017,"  1,470 "
+101,Washington DC-VA-MD,DC,Vlg,2017,"  5,020 "
+101,Wichita KS,KS,Med,2017,  515 
+101,Winston-Salem NC,NC,Sml,2017,  420 
+101,Worcester MA-CT,MA,Sml,2017,  495 
+393,Aberdeen-Bel Air S-Bel Air N MD,MD,Oth,2017,  217 
+393,Abilene TX,TX,Oth,2017,  112 
+393,Aguadilla-Isabela-San Sebastian PR,PR,Oth,2017,  275 
+393,Albany GA,GA,Oth,2017,  97 
+393,Albany OR,OR,Oth,2017,  57 
+393,Alexandria LA,LA,Oth,2017,  84 
+393,Alton IL-MO,IL,Oth,2017,  84 
+393,Altoona PA,PA,Oth,2017,  81 
+393,Amarillo TX,TX,Oth,2017,  205 
+393,Ames IA,IA,Oth,2017,  61 
+393,Anderson IN,IN,Oth,2017,  89 
+393,Anderson SC,SC,Oth,2017,  79 
+393,Ann Arbor MI,MI,Oth,2017,  311 
+393,Anniston-Oxford AL,AL,Oth,2017,  82 
+393,Antioch CA,CA,Oth,2017,  313 
+393,Appleton WI,WI,Oth,2017,  226 
+393,Arecibo PR,PR,Oth,2017,  130 
+393,Arroyo Grande-Grover Beach CA,CA,Oth,2017,  54 
+393,Asheville NC,NC,Oth,2017,  307 
+393,Athens-Clarke County GA,GA,Oth,2017,  134 
+393,Atlantic City NJ,NJ,Oth,2017,  250 
+393,Auburn AL,AL,Oth,2017,  85 
+393,Augusta-Richmond County GA-SC,GA,Oth,2017,  405 
+393,Avondale-Goodyear AZ,AZ,Oth,2017,  208 
+393,Bangor ME,ME,Oth,2017,  63 
+393,Barnstable Town MA,MA,Oth,2017,  254 
+393,Battle Creek MI,MI,Oth,2017,  82 
+393,Bay City MI,MI,Oth,2017,  73 
+393,Beckley WV,WV,Oth,2017,  64 
+393,Bellingham WA,WA,Oth,2017,  119 
+393,Beloit WI-IL,WI,Oth,2017,  65 
+393,Bend OR,OR,Oth,2017,  88 
+393,Benton Harbor-St. Joseph-Fair Plain MI,MI,Oth,2017,  62 
+393,Billings MT,MT,Oth,2017,  119 
+393,Binghamton NY-PA,NY,Oth,2017,  159 
+393,Bismarck ND,ND,Oth,2017,  94 
+393,Blacksburg VA,VA,Oth,2017,  94 
+393,Bloomington IN,IN,Oth,2017,  117 
+393,Bloomington-Normal IL,IL,Oth,2017,  136 
+393,Bloomsburg-Berwick PA,PA,Oth,2017,  54 
+393,Bonita Springs FL,FL,Oth,2017,  367 
+393,Bowling Green KY,KY,Oth,2017,  94 
+393,Bremerton WA,WA,Oth,2017,  215 
+393,Bristol TN-VA,TN,Oth,2017,  72 
+393,Brunswick GA,GA,Oth,2017,  81 
+393,Burlington NC,NC,Oth,2017,  137 
+393,Burlington VT,VT,Oth,2017,  112 
+393,Camarillo CA,CA,Oth,2017,  72 
+393,Canton OH,OH,Oth,2017,  287 
+393,Cape Girardeau MO-IL,MO,Oth,2017,  55 
+393,Carbondale IL,IL,Oth,2017,  68 
+393,Carson City NV,NV,Oth,2017,  59 
+393,Cartersville GA,GA,Oth,2017,  68 
+393,Casa Grande AZ,AZ,Oth,2017,  59 
+393,Casper WY,WY,Oth,2017,  78 
+393,Cedar Rapids IA,IA,Oth,2017,  188 
+393,Chambersburg PA,PA,Oth,2017,  52 
+393,Champaign IL,IL,Oth,2017,  153 
+393,Charleston WV,WV,Oth,2017,  175 
+393,Charlottesville VA,VA,Oth,2017,  104 
+393,Chattanooga TN-GA,TN,Oth,2017,  402 
+393,Cheyenne WY,WY,Oth,2017,  79 
+393,Chico CA,CA,Oth,2017,  108 
+393,Clarksville TN-KY,TN,Oth,2017,  177 
+393,Cleveland TN,TN,Oth,2017,  82 
+393,Coeur d'Alene ID,ID,Oth,2017,  113 
+393,College Station-Bryan TX,TX,Oth,2017,  198 
+393,Columbia MO,MO,Oth,2017,  136 
+393,Columbus GA-AL,GA,Oth,2017,  273 
+393,Columbus IN,IN,Oth,2017,  59 
+393,Concord CA,CA,Oth,2017,  666 
+393,Concord NC,NC,Oth,2017,  251 
+393,Conroe-The Woodlands TX,TX,Oth,2017,  294 
+393,Conway AR,AR,Oth,2017,  78 
+393,Corvallis OR,OR,Oth,2017,  67 
+393,Cumberland MD-WV-PA,MD,Oth,2017,  52 
+393,Dalton GA,GA,Oth,2017,  90 
+393,Danbury CT-NY,CT,Oth,2017,  178 
+393,Danville IL,IL,Oth,2017,  52 
+393,Daphne-Fairhope AL,AL,Oth,2017,  75 
+393,Davenport IA-IL,IA,Oth,2017,  295 
+393,Davis CA,CA,Oth,2017,  79 
+393,DeKalb IL,IL,Oth,2017,  76 
+393,Decatur AL,AL,Oth,2017,  91 
+393,Decatur IL,IL,Oth,2017,  66 
+393,Delano CA,CA,Oth,2017,  55 
+393,Deltona FL,FL,Oth,2017,  197 
+393,Denton-Lewisville TX,TX,Oth,2017,  417 
+393,Des Moines IA,IA,Oth,2017,  507 
+393,Dothan AL,AL,Oth,2017,  82 
+393,Dover DE,DE,Oth,2017,  121 
+393,Dover-Rochester NH-ME,NH,Oth,2017,  92 
+393,Dubuque IA-IL,IA,Oth,2017,  70 
+393,Duluth MN-WI,MN,Oth,2017,  126 
+393,Durham NC,NC,Oth,2017,  389 
+393,East Stoudsburg PA-NJ,PA,Oth,2017,  61 
+393,Eau Claire WI,WI,Oth,2017,  107 
+393,El Centro-Calexico CA,CA,Oth,2017,  120 
+393,El Paso de Robles-Atascadero CA,CA,Oth,2017,  69 
+393,Elizabethtown-Radcliff KY,KY,Oth,2017,  78 
+393,Elkhart IN-MI,IN,Oth,2017,  146 
+393,Elmira NY,NY,Oth,2017,  68 
+393,Erie PA,PA,Oth,2017,  201 
+393,Evansville IN-KY,IN,Oth,2017,  238 
+393,Fairbanks AK,AK,Oth,2017,  69 
+393,Fairfield CA,CA,Oth,2017,  146 
+393,Fajardo PR,PR,Oth,2017,  78 
+393,Fargo ND-MN,ND,Oth,2017,  195 
+393,Farmington NM,NM,Oth,2017,  55 
+393,Fayetteville NC,NC,Oth,2017,  330 
+393,Fayetteville-Springdale-Rogers AR-MO,AR,Oth,2017,  340 
+393,Flagstaff AZ,AZ,Oth,2017,  80 
+393,Flint MI,MI,Oth,2017,  339 
+393,Florence AL,AL,Oth,2017,  82 
+393,Florence SC,SC,Oth,2017,  99 
+393,Florida-Imbrey-Barceloneta PR,PR,Oth,2017,  64 
+393,Fond du Lac WI,WI,Oth,2017,  58 
+393,Fort Collins CO,CO,Oth,2017,  298 
+393,Fort Smith AR-OK,AR,Oth,2017,  128 
+393,Fort Walton Beach-Navarre-Wright FL,FL,Oth,2017,  213 
+393,Fort Wayne IN,IN,Oth,2017,  324 
+393,Frederick MD,MD,Oth,2017,  157 
+393,Fredericksburg VA,VA,Oth,2017,  158 
+393,Gadsden AL,AL,Oth,2017,  65 
+393,Gainesville FL,FL,Oth,2017,  196 
+393,Gainesville GA,GA,Oth,2017,  149 
+393,Galveston TX,TX,Oth,2017,  80 
+393,Gastonia NC-SC,NC,Oth,2017,  181 
+393,Gilroy-Morgan Hill CA,CA,Oth,2017,  115 
+393,Glens Falls NY,NY,Oth,2017,  67 
+393,Goldsboro NC,NC,Oth,2017,  62 
+393,Grand Forks ND-MN,ND,Oth,2017,  69 
+393,Grand Island NE,NE,Oth,2017,  53 
+393,Grand Junction CO,CO,Oth,2017,  132 
+393,Grants Pass OR,OR,Oth,2017,  55 
+393,Great Falls MT,MT,Oth,2017,  66 
+393,Greeley CO,CO,Oth,2017,  139 
+393,Green Bay WI,WI,Oth,2017,  214 
+393,Greenville NC,NC,Oth,2017,  130 
+393,Greenville SC,SC,Oth,2017,  430 
+393,Guayama PR,PR,Oth,2017,  70 
+393,Gulfport MS,MS,Oth,2017,  230 
+393,Hagerstown MD-WV-PA,MD,Oth,2017,  196 
+393,Hammond LA,LA,Oth,2017,  76 
+393,Hanford CA,CA,Oth,2017,  93 
+393,Hanover PA,PA,Oth,2017,  66 
+393,Harlingen TX,TX,Oth,2017,  147 
+393,Harrisburg PA,PA,Oth,2017,  475 
+393,Harrisonburg VA,VA,Oth,2017,  72 
+393,Hattiesburg MS,MS,Oth,2017,  81 
+393,Hazleton PA,PA,Oth,2017,  60 
+393,Hemet CA,CA,Oth,2017,  187 
+393,Hickory NC,NC,Oth,2017,  231 
+393,High Point NC,NC,Oth,2017,  175 
+393,Hilton Head Island SC,SC,Oth,2017,  73 
+393,Hinesville GA,GA,Oth,2017,  52 
+393,Holland MI,MI,Oth,2017,  104 
+393,Homosassa Spr-Bev Hills-Citrus Spr FL,FL,Oth,2017,  84 
+393,Hot Springs AR,AR,Oth,2017,  56 
+393,Houma LA,LA,Oth,2017,  148 
+393,Huntington WV-KY-OH,WV,Oth,2017,  206 
+393,Huntsville AL,AL,Oth,2017,  309 
+393,Idaho Falls ID,ID,Oth,2017,  97 
+393,Iowa City IA,IA,Oth,2017,  123 
+393,Ithaca NY,NY,Oth,2017,  55 
+393,Jackson MI,MI,Oth,2017,  91 
+393,Jackson TN,TN,Oth,2017,  73 
+393,Jacksonville NC,NC,Oth,2017,  109 
+393,Janesville WI,WI,Oth,2017,  73 
+393,Jefferson City MO,MO,Oth,2017,  59 
+393,Johnson City TN,TN,Oth,2017,  125 
+393,Johnstown PA,PA,Oth,2017,  71 
+393,Jonesboro AR,AR,Oth,2017,  71 
+393,Joplin MO,MO,Oth,2017,  86 
+393,Juana Díaz PR,PR,Oth,2017,  73 
+393,Kahului HI,HI,Oth,2017,  60 
+393,Kailua (Honolulu County)-Kaneohe HI,HI,Oth,2017,  117 
+393,Kalamazoo MI,MI,Oth,2017,  218 
+393,Kankakee IL,IL,Oth,2017,  85 
+393,Kennewick-Pasco WA,WA,Oth,2017,  235 
+393,Kenosha WI-IL,WI,Oth,2017,  127 
+393,Killeen TX,TX,Oth,2017,  226 
+393,Kingsport TN-VA,TN,Oth,2017,  109 
+393,Kingston NY,NY,Oth,2017,  115 
+393,Kissimmee FL,FL,Oth,2017,  363 
+393,Kokomo IN,IN,Oth,2017,  65 
+393,La Crosse WI-MN,WI,Oth,2017,  104 
+393,Lady Lake-The Villages FL,FL,Oth,2017,  121 
+393,Lafayette IN,IN,Oth,2017,  163 
+393,Lafayette LA,LA,Oth,2017,  271 
+393,Lafayette-Louisville-Erie CO,CO,Oth,2017,  93 
+393,Lake Charles LA,LA,Oth,2017,  148 
+393,Lake Havasu City AZ,AZ,Oth,2017,  55 
+393,Lake Jackson-Angleton TX,TX,Oth,2017,  85 
+393,Lakeland FL,FL,Oth,2017,  282 
+393,Lancaster PA,PA,Oth,2017,  415 
+393,Lansing MI,MI,Oth,2017,  324 
+393,Las Cruces NM,NM,Oth,2017,  136 
+393,Lawrence KS,KS,Oth,2017,  94 
+393,Lawton OK,OK,Oth,2017,  102 
+393,Lebanon PA,PA,Oth,2017,  82 
+393,Leesburg-Eustis-Tavares FL,FL,Oth,2017,  142 
+393,Leominster-Fitchburg MA,MA,Oth,2017,  121 
+393,Lewiston ID-WA,ID,Oth,2017,  53 
+393,Lewiston ME,ME,Oth,2017,  63 
+393,Lexington Park-Cal-Ches Ranch Est MD,MD,Oth,2017,  62 
+393,Lexington-Fayette KY,KY,Oth,2017,  314 
+393,Lima OH,OH,Oth,2017,  79 
+393,Lincoln NE,NE,Oth,2017,  283 
+393,Livermore CA,CA,Oth,2017,  89 
+393,Lodi CA,CA,Oth,2017,  72 
+393,Logan UT,UT,Oth,2017,  104 
+393,Lompoc CA,CA,Oth,2017,  55 
+393,Longmont CO,CO,Oth,2017,  99 
+393,Longview TX,TX,Oth,2017,  104 
+393,Longview WA-OR,WA,Oth,2017,  67 
+393,Lorain-Elyria OH,OH,Oth,2017,  184 
+393,Los Lunas NM,NM,Oth,2017,  63 
+393,Lubbock TX,TX,Oth,2017,  252 
+393,Lynchburg VA,VA,Oth,2017,  127 
+393,Macon GA,GA,Oth,2017,  141 
+393,Madera CA,CA,Oth,2017,  90 
+393,Manchester NH,NH,Oth,2017,  159 
+393,Mandeville-Covington LA,LA,Oth,2017,  112 
+393,Manhattan KS,KS,Oth,2017,  61 
+393,Mankato MN,MN,Oth,2017,  60 
+393,Mansfield OH,OH,Oth,2017,  77 
+393,Manteca CA,CA,Oth,2017,  92 
+393,Marysville WA,WA,Oth,2017,  164 
+393,Mauldin-Simpsonville SC,SC,Oth,2017,  142 
+393,Mayaguez PR,PR,Oth,2017,  100 
+393,McKinney TX,TX,Oth,2017,  210 
+393,Medford OR,OR,Oth,2017,  166 
+393,Merced CA,CA,Oth,2017,  146 
+393,Michigan City-La Porte IN-MI,IN,Oth,2017,  68 
+393,Middletown OH,OH,Oth,2017,  103 
+393,Midland MI,MI,Oth,2017,  62 
+393,Midland TX,TX,Oth,2017,  141 
+393,Mission Viejo-Lake Forest-San Clem CA,CA,Oth,2017,  608 
+393,Missoula MT,MT,Oth,2017,  88 
+393,Mobile AL,AL,Oth,2017,  340 
+393,Modesto CA,CA,Oth,2017,  373 
+393,Monessen-California PA,PA,Oth,2017,  69 
+393,Monroe LA,LA,Oth,2017,  122 
+393,Monroe MI,MI,Oth,2017,  63 
+393,Montgomery AL,AL,Oth,2017,  290 
+393,Morgantown WV,WV,Oth,2017,  75 
+393,Morristown TN,TN,Oth,2017,  61 
+393,Mount Vernon WA,WA,Oth,2017,  68 
+393,Muncie IN,IN,Oth,2017,  93 
+393,Murrieta-Temecula-Menifee CA,CA,Oth,2017,  532 
+393,Muskegon MI,MI,Oth,2017,  164 
+393,Myrtle Beach-Socastee SC-NC,SC,Oth,2017,  266 
+393,Nampa ID,ID,Oth,2017,  170 
+393,Napa CA,CA,Oth,2017,  87 
+393,Nashua NH-MA,NH,Oth,2017,  234 
+393,New Bedford MA,MA,Oth,2017,  150 
+393,New Bern NC,NC,Oth,2017,  51 
+393,Newark OH,OH,Oth,2017,  78 
+393,North Port-Port Charlotte FL,FL,Oth,2017,  197 
+393,Norwich-New London CT-RI,CT,Oth,2017,  225 
+393,Ocala FL,FL,Oth,2017,  178 
+393,Odessa TX,TX,Oth,2017,  147 
+393,Ogden-Layton UT,UT,Oth,2017,  607 
+393,Olympia-Lacey WA,WA,Oth,2017,  198 
+393,Oshkosh WI,WI,Oth,2017,  82 
+393,Owensboro KY,KY,Oth,2017,  76 
+393,Palm Bay-Melbourne FL,FL,Oth,2017,  493 
+393,Palm Coast-Daytona Bch-Port Orange FL,FL,Oth,2017,  388 
+393,Panama City FL,FL,Oth,2017,  159 
+393,Parkersburg WV-OH,WV,Oth,2017,  69 
+393,Pascagoula MS,MS,Oth,2017,  50 
+393,Peoria IL,IL,Oth,2017,  271 
+393,Petaluma CA,CA,Oth,2017,  67 
+393,Pine Bluff AR,AR,Oth,2017,  56 
+393,Pittsfield MA,MA,Oth,2017,  60 
+393,Pocatello ID,ID,Oth,2017,  72 
+393,Ponce PR,PR,Oth,2017,  128 
+393,Port Arthur TX,TX,Oth,2017,  153 
+393,Port Huron MI,MI,Oth,2017,  87 
+393,Port St. Lucie FL,FL,Oth,2017,  423 
+393,Porterville CA,CA,Oth,2017,  72 
+393,Portland ME,ME,Oth,2017,  212 
+393,Portsmouth NH-ME,NH,Oth,2017,  122 
+393,Pottstown PA,PA,Oth,2017,  115 
+393,Prescott Valley-Prescott AZ,AZ,Oth,2017,  95 
+393,Pueblo CO,CO,Oth,2017,  142 
+393,Racine WI,WI,Oth,2017,  135 
+393,Rapid City SD,SD,Oth,2017,  91 
+393,Reading PA,PA,Oth,2017,  274 
+393,Redding CA,CA,Oth,2017,  122 
+393,Reno NV-CA,NV,Oth,2017,  428 
+393,Roanoke VA,VA,Oth,2017,  217 
+393,Rochester MN,MN,Oth,2017,  117 
+393,Rock Hill SC,SC,Oth,2017,  117 
+393,Rockford IL,IL,Oth,2017,  302 
+393,Rocky Mount NC,NC,Oth,2017,  71 
+393,Rome GA,GA,Oth,2017,  63 
+393,Round Lake Bch-McHenry-Grayslake IL-WI,WI,Oth,2017,  297 
+393,Saginaw MI,MI,Oth,2017,  125 
+393,Salinas CA,CA,Oth,2017,  190 
+393,Salisbury MD-DE,MD,Oth,2017,  104 
+393,San Angelo TX,TX,Oth,2017,  98 
+393,San German-Cabo Rojo-Sabana Gra PR,PR,Oth,2017,  117 
+393,San Luis Obispo CA,CA,Oth,2017,  62 
+393,San Marcos TX,TX,Oth,2017,  72 
+393,Santa Barbara CA,CA,Oth,2017,  206 
+393,Santa Clarita CA,CA,Oth,2017,  270 
+393,Santa Cruz CA,CA,Oth,2017,  175 
+393,Santa Fe NM,NM,Oth,2017,  92 
+393,Santa Maria CA,CA,Oth,2017,  140 
+393,Santa Rosa CA,CA,Oth,2017,  316 
+393,Saratoga Springs NY,NY,Oth,2017,  71 
+393,Savannah GA,GA,Oth,2017,  283 
+393,Scranton PA,PA,Oth,2017,  388 
+393,Seaside-Monterey CA,CA,Oth,2017,  123 
+393,Sebastian-Vero Bch S-Florida Ridge FL,FL,Oth,2017,  150 
+393,Sebring-Avon Park FL,FL,Oth,2017,  62 
+393,Sheboygan WI,WI,Oth,2017,  72 
+393,Sherman TX,TX,Oth,2017,  69 
+393,Shreveport LA,LA,Oth,2017,  305 
+393,Sierra Vista AZ,AZ,Oth,2017,  53 
+393,Simi Valley CA,CA,Oth,2017,  129 
+393,Sioux City IA-NE-SD,IA,Oth,2017,  109 
+393,Sioux Falls SD,SD,Oth,2017,  174 
+393,Slidell LA,LA,Oth,2017,  94 
+393,South Bend IN-MI,IN,Oth,2017,  280 
+393,South Lyon-Howell MI,MI,Oth,2017,  127 
+393,Spartanburg SC,SC,Oth,2017,  197 
+393,Spring Hill FL,FL,Oth,2017,  148 
+393,Springfield IL,IL,Oth,2017,  163 
+393,Springfield MO,MO,Oth,2017,  290 
+393,Springfield OH,OH,Oth,2017,  86 
+393,St. Augustine FL,FL,Oth,2017,  78 
+393,St. Cloud MN,MN,Oth,2017,  115 
+393,St. George UT,UT,Oth,2017,  108 
+393,St. Joseph MO-KS,MO,Oth,2017,  82 
+393,State College PA,PA,Oth,2017,  92 
+393,Staunton-Waynesboro VA,VA,Oth,2017,  57 
+393,Sumter SC,SC,Oth,2017,  75 
+393,Syracuse NY,NY,Oth,2017,  425 
+393,Tallahassee FL,FL,Oth,2017,  256 
+393,Temple TX,TX,Oth,2017,  103 
+393,Terre Haute IN,IN,Oth,2017,  94 
+393,Texarkana TX-AR,TX,Oth,2017,  85 
+393,Texas City TX,TX,Oth,2017,  118 
+393,Thousand Oaks CA,CA,Oth,2017,  224 
+393,Titusville FL,FL,Oth,2017,  55 
+393,Topeka KS,KS,Oth,2017,  151 
+393,Tracy CA,CA,Oth,2017,  97 
+393,Trenton NJ,NJ,Oth,2017,  300 
+393,Turlock CA,CA,Oth,2017,  109 
+393,Tuscaloosa AL,AL,Oth,2017,  150 
+393,Twin Rivers-Highstown NJ,NJ,Oth,2017,  65 
+393,Tyler TX,TX,Oth,2017,  146 
+393,Uniontown-Connellsville PA,PA,Oth,2017,  50 
+393,Utica NY,NY,Oth,2017,  119 
+393,Vacaville CA,CA,Oth,2017,  97 
+393,Valdosta GA,GA,Oth,2017,  80 
+393,Vallejo CA,CA,Oth,2017,  178 
+393,Victoria TX,TX,Oth,2017,  69 
+393,Victorville-Hesperia CA,CA,Oth,2017,  347 
+393,Villas NJ,NJ,Oth,2017,  50 
+393,Vineland NJ,NJ,Oth,2017,  95 
+393,Visalia CA,CA,Oth,2017,  231 
+393,Waco TX,TX,Oth,2017,  186 
+393,Waldorf MD,MD,Oth,2017,  120 
+393,Walla Walla-WA-OR,WA,Oth,2017,  56 
+393,Warner Robins GA,GA,Oth,2017,  146 
+393,Waterbury CT,CT,Oth,2017,  193 
+393,Waterloo IA,IA,Oth,2017,  116 
+393,Watertown NY,NY,Oth,2017,  57 
+393,Watsonville CA,CA,Oth,2017,  75 
+393,Wausau WI,WI,Oth,2017,  78 
+393,Weirton-Steubenville WV-OH-PA,WV,Oth,2017,  73 
+393,Wenatchee WA,WA,Oth,2017,  73 
+393,West Bend WI,WI,Oth,2017,  70 
+393,Westminster-Eldersburg MD,MD,Oth,2017,  75 
+393,Wheeling WV-OH,WV,Oth,2017,  101 
+393,Wichita Falls TX,TX,Oth,2017,  100 
+393,Williamsburg VA,VA,Oth,2017,  85 
+393,Williamsport PA,PA,Oth,2017,  56 
+393,Wilmington NC,NC,Oth,2017,  241 
+393,Winchester VA,VA,Oth,2017,  71 
+393,Winter Haven FL,FL,Oth,2017,  209 
+393,Woodland CA,CA,Oth,2017,  58 
+393,Yakima WA,WA,Oth,2017,  137 
+393,Yauco PR,PR,Oth,2017,  75 
+393,York PA,PA,Oth,2017,  239 
+393,Youngstown OH-PA,OH,Oth,2017,  394 
+393,Yuba City CA,CA,Oth,2017,  125 
+393,Yuma AZ-CA,AZ,Oth,2017,  139 
+393,Zephyrhills FL,FL,Oth,2017,  74 
